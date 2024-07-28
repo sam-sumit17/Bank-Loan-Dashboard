@@ -3,9 +3,16 @@
 ### Overview
 
 The Bank Loan Dashboard provides a comprehensive analysis of customer and bank behavior in the disbursement and repayment of loans. Using American bank loan data, the dashboard was developed in Power BI and integrates SQL to query and manipulate data effectively. This project aims to offer insights into various aspects of loan distribution and repayment trends, helping stakeholders understand patterns and make data-driven decisions.
+
+
 ![Screenshot 2024-07-28 020300](https://github.com/user-attachments/assets/1a1658d6-d619-466c-85c6-5395cffc155f)
+
+
 ![Screenshot 2024-07-28 020851](https://github.com/user-attachments/assets/aa0b5ae2-0a5e-4dad-9aff-294790c11778)
-![Screenshot 2024-07-28 020300](https://github.com/user-attachments/assets/6b090a35-d561-454a-93db-e5e4847e0483)
+
+
+![Screenshot 2024-07-28 021252](https://github.com/user-attachments/assets/f536476f-c701-43c5-a791-2ef326ea022d)
+
 
 ### Data Sources
 
