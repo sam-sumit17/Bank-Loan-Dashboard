@@ -8,10 +8,13 @@ The Bank Loan Dashboard provides a comprehensive analysis of customer and bank b
 ![Screenshot 2024-07-28 020300](https://github.com/user-attachments/assets/1a1658d6-d619-466c-85c6-5395cffc155f)
 
 
-![Screenshot 2024-07-28 020851](https://github.com/user-attachments/assets/aa0b5ae2-0a5e-4dad-9aff-294790c11778)
+
 
 
 ![Screenshot 2024-07-28 021252](https://github.com/user-attachments/assets/f536476f-c701-43c5-a791-2ef326ea022d)
+
+
+![Screenshot 2024-07-28 020851](https://github.com/user-attachments/assets/aa0b5ae2-0a5e-4dad-9aff-294790c11778)
 
 
 ### Data Sources
